@@ -1,4 +1,4 @@
-Here is my resume in Json format
+
 //For loop ,For in loops for Json
 var json = {
    one: [11, 12, 13, 14, 15],
